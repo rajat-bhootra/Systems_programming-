@@ -1,3 +1,8 @@
+/*
+Q3) Write a C program that accepts two positive integers n, k where n > k and 
+    prints numbers from 1 to n which are not multiples of k.
+*/
+
 // header for scanf (read input) and printf (printing result)
 #include <stdio.h>
 int main(){
