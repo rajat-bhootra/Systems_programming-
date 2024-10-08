@@ -1,3 +1,7 @@
+/*
+Q4) Write a C program that accepts a positive number n and print its factorial.
+*/
+
 // header for scanf (read input) and printf (printing result)
 #include <stdio.h>
 
