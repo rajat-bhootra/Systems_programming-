@@ -1,3 +1,7 @@
+/*
+Q.1) Write a C program that takes as input 10 integers, 
+stores them in an array, and prints the sum of all the 10 numbers.
+*/
 // including header file for scanf(input) and printf(output).
 #include <stdio.h>
 // macro size with value 10
