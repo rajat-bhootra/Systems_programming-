@@ -1,3 +1,10 @@
+/*
+Q1: Write a C program that 
+(a) reads two string into two different arrays as a sequence of characters. Maximum length of the string is 19 characters.
+(b) Then checks whether two strings are the same.
+(c) If strings are equal output/print "two strings are same", otherwise output/print "two strings are different"	
+*/
+
 #include<stdio.h>
 
 int main(){
