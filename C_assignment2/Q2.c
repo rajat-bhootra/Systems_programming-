@@ -1,3 +1,9 @@
+/*
+Q2: Write a C program that
+(a) Reads a string into an array
+(b) Checks whether  string  read is palindrome.
+(c) if  string read is palindrome print "string is palindrome" otherwise print "string is not palindrome"
+*/
 #include<stdio.h>
 
 int main(){
