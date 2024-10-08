@@ -1,3 +1,11 @@
+/*
+Q3) Write a C program that 
+(a) initializes  contents of 8 byte (  variable of type long) with a value 0x7071727374757677 .
+(b) prints contents of the 8 byte as two integers using a integer pointer (int *)
+(c) prints contents of the 8 byte as eight characters using character pointer (char *)
+(d) print number of bytes taken by char, int and long data type.
+*/
+
 #include<stdio.h>
 
 int main(){
