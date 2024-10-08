@@ -1,2 +1,3 @@
 # Systems_programming-
-assignments of C programming language 
+it's a core course (CS2013) in CSE at IIT-PALAKKAD.
+learning C programming language.
