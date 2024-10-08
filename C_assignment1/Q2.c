@@ -1,3 +1,8 @@
+/*
+Q2) Write a C Program that takes as input an array 
+    of integers and reverse the array elements.
+*/
+
 // header for scanf (read input) and printf (printing result)
 #include <stdio.h>
 
